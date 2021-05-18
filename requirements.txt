@@ -1,0 +1,5 @@
+tqdm>4
+pandas>1
+numpy>1
+keras>2
+tensorflow>2
